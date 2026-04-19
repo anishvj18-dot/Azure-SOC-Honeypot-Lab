@@ -1,6 +1,6 @@
 # Azure SOC Honeypot Lab
 Cloud-based honeypot SOC lab built on Microsoft Azure capturing 
-real world RDP brute force attacks and visualized using Microsoft Sentinel SIEM
+real world RDP attacks and visualized using Microsoft Sentinel SIEM
 
 ## Overview
 Deployed a Windows VM honeypot on Microsoft Azure intentionally 
